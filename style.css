@@ -1,0 +1,43 @@
+/* static/css/style.css */
+html, body, #map {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.info-box {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  background: rgba(255,255,255,0.95);
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  width: 260px;
+  z-index: 1000;
+}
+
+#info-close {
+  float: right;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.info-row { margin-bottom: 6px; }
+
+.bar-visual {
+  height: 12px;
+  background: #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 6px;
+}
+.bar-fill {
+  height: 100%;
+  width: 0%;
+  background: green;
+  transition: width 0.5s ease;
+}

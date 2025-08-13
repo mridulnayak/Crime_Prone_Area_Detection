@@ -1,0 +1,16 @@
+locality,district,latitude,longitude,crime_rate_per_100k,total_crimes,safety_level
+Bhatagaon,Raipur,21.2435,81.6350,400,3500,High
+Santoshi Nagar,Raipur,21.2460,81.6385,350,3200,Medium
+Pandri,Raipur,21.2310,81.6420,380,3400,High
+Shankar Nagar,Raipur,21.2490,81.6395,300,2800,Medium
+Telibandha,Raipur,21.2590,81.6270,250,2200,Low
+Raipur City Center,Raipur,21.2370,81.6330,420,3600,High
+Nava Raipur,Raipur,21.2220,81.6200,200,1800,Low
+Mowa,Raipur,21.2175,81.6545,270,2100,Medium
+Patan,Raipur,21.2560,81.6430,310,2900,Medium
+Civil Lines,Raipur,21.2375,81.6400,360,3300,High
+Sunder Nagar,Raipur,21.2420,81.6280,230,2000,Low
+Sakti,Raipur,21.2280,81.6380,280,2400,Medium
+Fafadih,Raipur,21.2500,81.6360,350,3100,Medium
+HIG,Raipur,21.2450,81.6325,400,3500,High
+Gudri,Raipur,21.2340,81.6390,270,2200,Medium
